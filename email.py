@@ -29,6 +29,3 @@ if( num>=1 and a<=1 and alpha>=7 and stop==0 and at==1):
     print("email is valid")
 else:
     print("please look out the composition of letters \nemail is invalid")
-print("alpha",alpha)
-print('@',at)
-print("number",num)
